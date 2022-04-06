@@ -1,0 +1,2 @@
+#### Word Embedding Layers
+In a symbolic space each word is represented as a [[One-hot vector]] whose dimensionality $n$ is the size of a pre-defined [[vocabulary]]. The [[vocabulary]] is often large; e.g., $n > 100K$. We apply a [[word embedding]] model, which is parameterized by a linear projection matrix $W_e ∈ R^{n×m}$, to map each [[One-hot vector]] to a $m$-dimensional real-valued vector $(m << n)$ in a neural space where the embedding vectors of the words that are more semantically similar are *closer to each other.*

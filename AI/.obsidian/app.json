@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "vi"
+  ],
+  "showFrontmatter": false
+}

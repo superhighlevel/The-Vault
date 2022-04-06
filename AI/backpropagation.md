@@ -1,0 +1,3 @@
+---
+aliases: backpropagation, backprop, Backprop
+---

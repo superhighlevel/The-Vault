@@ -1,0 +1,1 @@
+Giúp thấy được tất cả [[chi tiết]] của các bản ghi và đi tới các bản ghi được kết nối với nó.

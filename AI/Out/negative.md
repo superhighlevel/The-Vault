@@ -1,0 +1,1 @@
+Câu không liên quan tới [[query]]]

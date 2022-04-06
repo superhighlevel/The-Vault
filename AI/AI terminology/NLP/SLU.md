@@ -1,0 +1,2 @@
+### **S**poken **L**anguage **U**nderstanding
+[[SLU]] systems are designed to extract the meaning from [[speech utterances]] and their application are vast, ranging from [[voice search]] in mobile devices to [[meeting summarization]]

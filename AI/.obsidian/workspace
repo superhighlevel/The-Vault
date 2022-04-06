@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "af5b00a29cc4b887",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed5b39ba834b48dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Q-Learning.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7082da592c4a30f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5cfcc9e9ad7b124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "113c3326bed09a03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b481d1d65ee74608",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Seq2",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275,
+    "collapsed": true
+  },
+  "right": {
+    "id": "074611f5e996a46c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef270b7909106a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f07228b5f9c33042",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Q-Learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295,
+    "collapsed": true
+  },
+  "active": "ed5b39ba834b48dd",
+  "lastOpenFiles": [
+    "Q-Learning.md",
+    "AI terminology/ML-DL-RL/RL.md",
+    "AI terminology/ML-DL-RL/ML Agents using supervised learning.md",
+    "AI terminology/NLP/neural methods in NLP tasks.md",
+    "Book/Neural Approaches to Conversational AI.md",
+    "Markov decision process.md",
+    "Q-function.md",
+    "Interaction between an RL agent and the external environment.png",
+    "Seq2Seq.md",
+    "Recurrent Neural Network.md"
+  ]
+}

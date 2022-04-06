@@ -1,0 +1,1 @@
+In [[linguistics]], **lexical similarity** is a measure of the degree to which the word sets of two given **languages** are similar. Measure in scale of 0 to 1, a lexical similarity of 1 (or 100%) would mean a **total overlap** between **vocabularies**, whereas 0 means there are no common words.

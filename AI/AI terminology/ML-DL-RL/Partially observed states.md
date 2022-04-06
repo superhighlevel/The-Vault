@@ -1,0 +1,2 @@
+#### Partially observed states
+In many [[RL]] problems, the observation perceived from the environment at each step, e.g., user input in each dialogue turn, provides only partial information about the entire state of the environment based on which the agent selects the next action. Neural approaches learn a deep neural network to represent the [[state]] by encoding all information observed at the current and past steps, e.g., all the previous dialogue turns and the retrieval results from external [[databases]].

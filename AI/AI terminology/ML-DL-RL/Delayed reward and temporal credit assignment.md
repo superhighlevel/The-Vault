@@ -1,0 +1,3 @@
+#### Delayed reward and temporal credit assignment
+In [[RL]], training information is not available in the form of $(x, y^∗ )$ as in [[Supervised Learning|SL]]. Instead, the environment provides only delayed rewards as the agent executes a sequence of actions. 
+	For example, we do not know whether a dialogue succeeds in completing a task *until the end* of the session. The agent, therefore, has to determine which of the actions in its sequence are to be credited with producing the eventual reward, a problem known as [[temporal credit assignment]].

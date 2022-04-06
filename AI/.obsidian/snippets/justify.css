@@ -1,0 +1,11 @@
+mjx-math {
+    font-size: 110% !important;
+  }
+.markdown-preview-view {
+    font-family: 'CMU Serif Bold' !important;
+    text-align: justify;
+    hyphens: auto;
+}
+.markdown-source-view.mod-cm6 .cm-scroller {
+    font-family: 'CMU Serif Bold' !important;
+}

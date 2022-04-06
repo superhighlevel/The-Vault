@@ -1,0 +1,1 @@
+Cho phép tương tác trực tiếp với [[data]] giúp thấy được các [[relationship]] và chi tiết của có

@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 20,
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "big-math",
+    "clean_embeds",
+    "Block_reference_embed",
+    "clean-embeds",
+    "hide_h5_header",
+    "justify"
+  ],
+  "translucency": false,
+  "cssTheme": "Everforest"
+}
