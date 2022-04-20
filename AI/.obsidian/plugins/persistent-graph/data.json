@@ -1,0 +1,1840 @@
+{
+  "nodePositions": [
+    {
+      "id": "AI terminology/Common/AI.md",
+      "x": -432.2440185546875,
+      "y": 144.24819946289062
+    },
+    {
+      "id": "AI terminology/Common/Accuracy.md",
+      "x": -309.02618408203125,
+      "y": -1038.9306640625
+    },
+    {
+      "id": "AI terminology/Common/Activation Functions.md",
+      "x": -1919.0550537109375,
+      "y": 171.20782470703125
+    },
+    {
+      "id": "AI terminology/Common/Arithmetic Mean.md",
+      "x": -504.0723571777344,
+      "y": -2661.78125
+    },
+    {
+      "id": "AI terminology/Common/Categorizing.md",
+      "x": -1653.108642578125,
+      "y": 769.5369262695312
+    },
+    {
+      "id": "AI terminology/Common/Continual Backprop.md",
+      "x": 6.162334442138672,
+      "y": -1316.082275390625
+    },
+    {
+      "id": "AI terminology/Common/Cost function.md",
+      "x": -1110.5042724609375,
+      "y": -1099.6434326171875
+    },
+    {
+      "id": "AI terminology/Common/Decision making process.md",
+      "x": 493.6462707519531,
+      "y": -668.968017578125
+    },
+    {
+      "id": "AI terminology/Common/F1 Score.md",
+      "x": -753.497802734375,
+      "y": -2058.076171875
+    },
+    {
+      "id": "AI terminology/Common/Feature Engineering.md",
+      "x": -1150.3846435546875,
+      "y": 581.9859008789062
+    },
+    {
+      "id": "NLU",
+      "x": -968.568603515625,
+      "y": 831.26416015625
+    },
+    {
+      "id": "AI terminology/Common/Figure 2.1.md",
+      "x": -1066.2110595703125,
+      "y": -347.7433776855469
+    },
+    {
+      "id": "entities",
+      "x": -1241.83837890625,
+      "y": -550.1386108398438
+    },
+    {
+      "id": "linear classifier",
+      "x": -1266.0841064453125,
+      "y": -233.79067993164062
+    },
+    {
+      "id": "softmax layer",
+      "x": -1289.8482666015625,
+      "y": -440.2618103027344
+    },
+    {
+      "id": "distribution",
+      "x": -1218.4229736328125,
+      "y": -343.7770080566406
+    },
+    {
+      "id": "feature representation",
+      "x": -1112.803466796875,
+      "y": -558.7080688476562
+    },
+    {
+      "id": "feature generator",
+      "x": -1337.556884765625,
+      "y": -330.1959533691406
+    },
+    {
+      "id": "AI terminology/Common/Fully Connected Layers.md",
+      "x": 874.3536987304688,
+      "y": -522.7158203125
+    },
+    {
+      "id": "nonlinear activation function",
+      "x": 1063.66259765625,
+      "y": -479.1889953613281
+    },
+    {
+      "id": "AI terminology/Common/Gated RNNs.md",
+      "x": -1426.17138671875,
+      "y": 352.5605163574219
+    },
+    {
+      "id": "vanishing gradient",
+      "x": -1703.0863037109375,
+      "y": 103.0927963256836
+    },
+    {
+      "id": "exploding gradient",
+      "x": -1777.3057861328125,
+      "y": 197.3513641357422
+    },
+    {
+      "id": "AI terminology/Common/Gated Recurrent Unit.md",
+      "x": -1030.8974609375,
+      "y": 572.5316772460938
+    },
+    {
+      "id": "AI terminology/Common/Geometric Mean.md",
+      "x": -421.3094482421875,
+      "y": -2574.890380859375
+    },
+    {
+      "id": "AI terminology/Common/Harmonic mean.md",
+      "x": -700.570556640625,
+      "y": -2344.488037109375
+    },
+    {
+      "id": "AI terminology/Common/Markov Decision Processes (MDPs).md",
+      "x": 724.7803955078125,
+      "y": -776.4146118164062
+    },
+    {
+      "id": "AI terminology/Common/Observations.md",
+      "x": -1126.6109619140625,
+      "y": -963.4451293945312
+    },
+    {
+      "id": "AI terminology/Common/Precision.md",
+      "x": -797.0486450195312,
+      "y": -1861.139892578125
+    },
+    {
+      "id": "AI terminology/Common/Prediction.md",
+      "x": -1320.5589599609375,
+      "y": -987.6966552734375
+    },
+    {
+      "id": "AI terminology/Common/Python function.md",
+      "x": -2006.07470703125,
+      "y": 446.2622985839844
+    },
+    {
+      "id": "*args",
+      "x": -2202.434814453125,
+      "y": 493.6517028808594
+    },
+    {
+      "id": "**kwargs",
+      "x": -2198.1796875,
+      "y": 373.74908447265625
+    },
+    {
+      "id": "AI terminology/Common/ReLU.md",
+      "x": -2120.4423828125,
+      "y": 189.87770080566406
+    },
+    {
+      "id": "AI terminology/Common/Recall.md",
+      "x": -680.144775390625,
+      "y": -1888.134033203125
+    },
+    {
+      "id": "AI terminology/Common/SNIPS.md",
+      "x": -151.54217529296875,
+      "y": 850.0701293945312
+    },
+    {
+      "id": "benchmark",
+      "x": 18.517114639282227,
+      "y": 1047.9869384765625
+    },
+    {
+      "id": "AI terminology/Common/Search.md",
+      "x": 150.3587188720703,
+      "y": 2635.423828125
+    },
+    {
+      "id": "AI terminology/Common/Sigmoid.md",
+      "x": -1861.0662841796875,
+      "y": -19.93672752380371
+    },
+    {
+      "id": "AI terminology/Common/Softmax.md",
+      "x": -2089.370361328125,
+      "y": -46.314823150634766
+    },
+    {
+      "id": "categorical cross entropy",
+      "x": -2266.785888671875,
+      "y": -134.26333618164062
+    },
+    {
+      "id": "AI terminology/Common/Tanh.md",
+      "x": -2090.66357421875,
+      "y": 73.67020416259766
+    },
+    {
+      "id": "AI terminology/Common/The Mean.md",
+      "x": -572.72509765625,
+      "y": -2533.80810546875
+    },
+    {
+      "id": "AI terminology/Common/back propagation.md",
+      "x": -856.9557495117188,
+      "y": 50.57302474975586
+    },
+    {
+      "id": "AI terminology/Common/backpropagation.md",
+      "x": -516.343505859375,
+      "y": -669.6547241210938
+    },
+    {
+      "id": "AI terminology/Common/batch size.md",
+      "x": -879.5593872070312,
+      "y": -1309.4730224609375
+    },
+    {
+      "id": "AI terminology/Common/batch.md",
+      "x": -770.5796508789062,
+      "y": -1259.342041015625
+    },
+    {
+      "id": "AI terminology/Common/classification.md",
+      "x": -1630.8250732421875,
+      "y": 254.60728454589844
+    },
+    {
+      "id": "AI terminology/Common/dataset.md",
+      "x": -187.84291076660156,
+      "y": 9.5977144241333
+    },
+    {
+      "id": "AI terminology/Common/deep convolutional NN.md",
+      "x": -40.28961944580078,
+      "y": -1826.0841064453125
+    },
+    {
+      "id": "AI terminology/Common/hidden layers.md",
+      "x": -715.6217651367188,
+      "y": -297.5308532714844
+    },
+    {
+      "id": "AI terminology/Common/knowledge graph database.md",
+      "x": 1440.3453369140625,
+      "y": 378.45263671875
+    },
+    {
+      "id": "AI terminology/Common/knowledge graph.md",
+      "x": 1340.1434326171875,
+      "y": 444.4313049316406
+    },
+    {
+      "id": "AI terminology/Common/knowledge-base QA.md",
+      "x": 853.1687622070312,
+      "y": -46.489078521728516
+    },
+    {
+      "id": "AI terminology/Common/knowledge-base.md",
+      "x": 1152.2689208984375,
+      "y": 173.28257751464844
+    },
+    {
+      "id": "AI terminology/Common/learning rate.md",
+      "x": -942.4976806640625,
+      "y": -1207.35693359375
+    },
+    {
+      "id": "AI terminology/Common/mean squared error (MSE).md",
+      "x": -941.2149047851562,
+      "y": -1458.143798828125
+    },
+    {
+      "id": "AI terminology/Common/mini-batch Stochastic Gradient Descent (SGD).md",
+      "x": -808.0820922851562,
+      "y": -1088.1602783203125
+    },
+    {
+      "id": "AI terminology/Common/optimization.md",
+      "x": -1082.138671875,
+      "y": -1372.8367919921875
+    },
+    {
+      "id": "search algorithm",
+      "x": -1207.881591796875,
+      "y": -1557.49658203125
+    },
+    {
+      "id": "AI terminology/Common/parameter.md",
+      "x": -1481.18017578125,
+      "y": -369.2958068847656
+    },
+    {
+      "id": "AI terminology/Common/python list.md",
+      "x": -2034.0059814453125,
+      "y": 1457.32763671875
+    },
+    {
+      "id": "Python",
+      "x": -2037.7005615234375,
+      "y": 1642.2408447265625
+    },
+    {
+      "id": "data types",
+      "x": -2146.858154296875,
+      "y": 1588.9608154296875
+    },
+    {
+      "id": "AI terminology/Common/state-of-the-art.md",
+      "x": -268.1640625,
+      "y": 98.726318359375
+    },
+    {
+      "id": "AI terminology/Common/targets.md",
+      "x": -1232.19580078125,
+      "y": -906.5138549804688
+    },
+    {
+      "id": "AI terminology/Common/triple dataset.md",
+      "x": -1611.325927734375,
+      "y": -342.7770690917969
+    },
+    {
+      "id": "AI terminology/Common/triple loss.md",
+      "x": -1696.4302978515625,
+      "y": -1026.1160888671875
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Agents.md",
+      "x": 190.16928100585938,
+      "y": -184.76219177246094
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/CPS.md",
+      "x": 688.871826171875,
+      "y": -1242.5865478515625
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Common Supervised Learning Metrics.md",
+      "x": -607.6045532226562,
+      "y": -1531.592041015625
+    },
+    {
+      "id": "regression problems",
+      "x": -756.7653198242188,
+      "y": -1673.7625732421875
+    },
+    {
+      "id": "classification problems",
+      "x": -647.9237670898438,
+      "y": -1724.2437744140625
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/DNN.md",
+      "x": -506.70111083984375,
+      "y": -520.1256103515625
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/DSSM.md",
+      "x": -192.3220977783203,
+      "y": -1577.933837890625
+    },
+    {
+      "id": "Semantic Similarity Model",
+      "x": -333.69659423828125,
+      "y": -1705.266845703125
+    },
+    {
+      "id": "deep learning model",
+      "x": -28.823654174804688,
+      "y": -1618.5816650390625
+    },
+    {
+      "id": "RNN",
+      "x": -279.8055419921875,
+      "y": -1812.4942626953125
+    },
+    {
+      "id": "semantic space",
+      "x": -160.04161071777344,
+      "y": -1819.4293212890625
+    },
+    {
+      "id": "pair-wise rank loss",
+      "x": -94.34131622314453,
+      "y": -1719.029296875
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Deep Learning.md",
+      "x": -590.2471313476562,
+      "y": -117.94251251220703
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Delayed reward and temporal credit assignment.md",
+      "x": -96.19297790527344,
+      "y": -1253.484375
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Exploration-exploitation tradeoff.md",
+      "x": 514.971435546875,
+      "y": -1443.991943359375
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Long-Short Term Memory.md",
+      "x": -1032.583984375,
+      "y": 452.62176513671875
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/ML Agents using supervised learning.md",
+      "x": -636.2205200195312,
+      "y": -664.8892822265625
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/ML.md",
+      "x": -609.310791015625,
+      "y": -241.99082946777344
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Model.md",
+      "x": -1204.085205078125,
+      "y": -663.9584350585938
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/NN.md",
+      "x": -1114.904052734375,
+      "y": 21.1525936126709
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Neural Network Layer.md",
+      "x": -563.973388671875,
+      "y": -353.07861328125
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Partially observed states.md",
+      "x": 616.0802612304688,
+      "y": -1620.1578369140625
+    },
+    {
+      "id": "state",
+      "x": 711.5488891601562,
+      "y": -1803.1412353515625
+    },
+    {
+      "id": "databases",
+      "x": 798.9962158203125,
+      "y": -1720.9891357421875
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Q-Learning.md",
+      "x": 419.5251770019531,
+      "y": -1516.6822509765625
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Q-function.md",
+      "x": 933.0723266601562,
+      "y": -1243.041748046875
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/RL.md",
+      "x": 343.0231628417969,
+      "y": -1316.4041748046875
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Recurrent Layers.md",
+      "x": 161.7399139404297,
+      "y": 163.421630859375
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Recurrent Neural Network.md",
+      "x": -518.2439575195312,
+      "y": 688.3983764648438
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/Supervised Learning.md",
+      "x": -883.0051879882812,
+      "y": -657.2471313476562
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/The Perceptron.md",
+      "x": -817.8497314453125,
+      "y": -234.7997589111328
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/deep feed-forward NN.md",
+      "x": 1097.4368896484375,
+      "y": -594.2898559570312
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/deep reinforcement learning.md",
+      "x": 266.3647155761719,
+      "y": -1016.0411987304688
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/generation models.md",
+      "x": -471.0307312011719,
+      "y": -277.2357482910156
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/machine learning.md",
+      "x": 194.28819274902344,
+      "y": 2447.079345703125
+    },
+    {
+      "id": "AI terminology/ML-DL-RL/temporal credit assignment.md",
+      "x": 8.667256355285645,
+      "y": -1446.2103271484375
+    },
+    {
+      "id": "AI terminology/NLP/Bag-Of-Words.md",
+      "x": 684.531494140625,
+      "y": -186.8053741455078
+    },
+    {
+      "id": "AI terminology/NLP/Conversational AI.md",
+      "x": 503.1341247558594,
+      "y": -110.42748260498047
+    },
+    {
+      "id": "AI terminology/NLP/Cos similarity.md",
+      "x": -353.1326599121094,
+      "y": -1451.12353515625
+    },
+    {
+      "id": "AI terminology/NLP/Cosine Distance.md",
+      "x": -281.3616638183594,
+      "y": -1978.9368896484375
+    },
+    {
+      "id": "AI terminology/NLP/Decoding (NLP).md",
+      "x": -941.91552734375,
+      "y": -160.55947875976562
+    },
+    {
+      "id": "AI terminology/NLP/Encoding (NLP).md",
+      "x": -673.51171875,
+      "y": 277.78173828125
+    },
+    {
+      "id": "AI terminology/NLP/IDF.md",
+      "x": -1660.9290771484375,
+      "y": 1042.6485595703125
+    },
+    {
+      "id": "AI terminology/NLP/IR.md",
+      "x": -1012.13330078125,
+      "y": -999.7461547851562
+    },
+    {
+      "id": "vector",
+      "x": -1109.2470703125,
+      "y": -1219.6024169921875
+    },
+    {
+      "id": "AI terminology/NLP/Intent classification.md",
+      "x": 0.13647399842739105,
+      "y": 1377.57275390625
+    },
+    {
+      "id": "supervised classification",
+      "x": 178.16659545898438,
+      "y": 1502.0732421875
+    },
+    {
+      "id": "sentence classification",
+      "x": 133.97219848632812,
+      "y": 1613.5775146484375
+    },
+    {
+      "id": "classification tasks",
+      "x": 14.588202476501465,
+      "y": 1601.9605712890625
+    },
+    {
+      "id": "AI terminology/NLP/Lemmas.md",
+      "x": -1575.933349609375,
+      "y": 956.9453735351562
+    },
+    {
+      "id": "AI terminology/NLP/MRC.md",
+      "x": -115.47955322265625,
+      "y": -773.4918823242188
+    },
+    {
+      "id": "AI terminology/NLP/Markov decision process.md",
+      "x": 746.5289306640625,
+      "y": -1112.6763916015625
+    },
+    {
+      "id": "AI terminology/NLP/N-grams.md",
+      "x": -1249.312744140625,
+      "y": 514.2033081054688
+    },
+    {
+      "id": "AI terminology/NLP/NLG.md",
+      "x": 894.9547729492188,
+      "y": 268.7571716308594
+    },
+    {
+      "id": "AI terminology/NLP/NLP.md",
+      "x": -772.403564453125,
+      "y": 350.31097412109375
+    },
+    {
+      "id": "AI terminology/NLP/Natural Language Understanding.md",
+      "x": -137.26608276367188,
+      "y": 525.7980346679688
+    },
+    {
+      "id": "AI terminology/NLP/One-hot encoding.md",
+      "x": -1302.676025390625,
+      "y": 1350.585693359375
+    },
+    {
+      "id": "AI terminology/NLP/One-hot vector.md",
+      "x": -1257.4970703125,
+      "y": 1532.302001953125
+    },
+    {
+      "id": "AI terminology/NLP/QA agents.md",
+      "x": 440.39544677734375,
+      "y": -283.1563720703125
+    },
+    {
+      "id": "AI terminology/NLP/QA.md",
+      "x": 626.1199951171875,
+      "y": -76.65562438964844
+    },
+    {
+      "id": "AI terminology/NLP/RL intelligent dialogs system.md",
+      "x": 531.0509643554688,
+      "y": -1088.00439453125
+    },
+    {
+      "id": "AI terminology/NLP/Reasoning (NLP).md",
+      "x": -934.6707763671875,
+      "y": -40.79407501220703
+    },
+    {
+      "id": "AI terminology/NLP/SIGIR 2018.md",
+      "x": 158.67724609375,
+      "y": -963.29638671875
+    },
+    {
+      "id": "AI terminology/NLP/SIGIR.md",
+      "x": 271.3143615722656,
+      "y": -1185.7635498046875
+    },
+    {
+      "id": "AI terminology/NLP/SLU.md",
+      "x": 115.6606674194336,
+      "y": 340.1025695800781
+    },
+    {
+      "id": "AI terminology/NLP/Sample of cos sim.md",
+      "x": -401.0071105957031,
+      "y": -1840.608154296875
+    },
+    {
+      "id": "AI terminology/NLP/Semantic Models.md",
+      "x": 25.35495376586914,
+      "y": -1725.647705078125
+    },
+    {
+      "id": "AI terminology/NLP/Semantic Sepresentation.md",
+      "x": -195.8837890625,
+      "y": 673.572265625
+    },
+    {
+      "id": "AI terminology/NLP/Semantic Similarity.md",
+      "x": 2.8521509170532227,
+      "y": -2020.9320068359375
+    },
+    {
+      "id": "AI terminology/NLP/Semantics.md",
+      "x": -158.84326171875,
+      "y": -538.0590209960938
+    },
+    {
+      "id": "AI terminology/NLP/Seq2Seq for Text Generation.md",
+      "x": -371.93389892578125,
+      "y": -79.96976470947266
+    },
+    {
+      "id": "AI terminology/NLP/Seq2Seq.md",
+      "x": -916.6035766601562,
+      "y": 483.2421569824219
+    },
+    {
+      "id": "encoder-decoder",
+      "x": -935.9999389648438,
+      "y": 645.7714233398438
+    },
+    {
+      "id": "probability",
+      "x": -1149.666748046875,
+      "y": 426.6408386230469
+    },
+    {
+      "id": "AI terminology/NLP/Social Chatbots.md",
+      "x": -391.73443603515625,
+      "y": -380.2556457519531
+    },
+    {
+      "id": "AI terminology/NLP/Stems.md",
+      "x": -1768.4261474609375,
+      "y": 802.7195434570312
+    },
+    {
+      "id": "AI terminology/NLP/SymSpell.md",
+      "x": 1447.31689453125,
+      "y": 498.2468566894531
+    },
+    {
+      "id": "AI terminology/NLP/TF-IDF.md",
+      "x": -1792.7674560546875,
+      "y": 932.1401977539062
+    },
+    {
+      "id": "AI terminology/NLP/Task-Oriented Dialog.md",
+      "x": 292.3383483886719,
+      "y": 135.1363983154297
+    },
+    {
+      "id": "AI terminology/NLP/Term Frequency.md",
+      "x": -1544.80908203125,
+      "y": 1072.8360595703125
+    },
+    {
+      "id": "AI terminology/NLP/Text Generation.md",
+      "x": -183.0777587890625,
+      "y": -267.9165954589844
+    },
+    {
+      "id": "AI terminology/NLP/Word Embedding Layers.md",
+      "x": -1025.1939697265625,
+      "y": 725.6600952148438
+    },
+    {
+      "id": "AI terminology/NLP/conversational systems.md",
+      "x": 23.539548873901367,
+      "y": -382.6436462402344
+    },
+    {
+      "id": "AI terminology/NLP/corpus.md",
+      "x": -1682.0223388671875,
+      "y": 885.9865112304688
+    },
+    {
+      "id": "AI terminology/NLP/dialogue management.md",
+      "x": -24.362960815429688,
+      "y": -695.8991088867188
+    },
+    {
+      "id": "AI terminology/NLP/dialogue policy.md",
+      "x": 632.1787719726562,
+      "y": 270.5219421386719
+    },
+    {
+      "id": "AI terminology/NLP/dialogue tasks.md",
+      "x": -46.084312438964844,
+      "y": -578.2562866210938
+    },
+    {
+      "id": "AI terminology/NLP/dictionary.md",
+      "x": -2303.254638671875,
+      "y": -1403.0322265625
+    },
+    {
+      "id": "AI terminology/NLP/dispersion plot.md",
+      "x": -2032.5418701171875,
+      "y": 978.8215942382812
+    },
+    {
+      "id": "AI terminology/NLP/domain.md",
+      "x": -294.33282470703125,
+      "y": 1199.8184814453125
+    },
+    {
+      "id": "AI terminology/NLP/embedding vectors.md",
+      "x": 1009.3204956054688,
+      "y": -675.6868286132812
+    },
+    {
+      "id": "AI terminology/NLP/embeding retriever.md",
+      "x": -1757.01513671875,
+      "y": -584.0096435546875
+    },
+    {
+      "id": "top-k",
+      "x": -1962.2159423828125,
+      "y": -583.440673828125
+    },
+    {
+      "id": "inintent",
+      "x": -1893.8880615234375,
+      "y": -682.0391845703125
+    },
+    {
+      "id": "AI terminology/NLP/embeding vector.md",
+      "x": -436.4862365722656,
+      "y": -1616.9072265625
+    },
+    {
+      "id": "AI terminology/NLP/embeding.md",
+      "x": -1213.7802734375,
+      "y": -1160.6951904296875
+    },
+    {
+      "id": "AI terminology/NLP/entity.md",
+      "x": -440.6435852050781,
+      "y": 2555.810546875
+    },
+    {
+      "id": "AI terminology/NLP/fully datadriven systems.md",
+      "x": 698.8707885742188,
+      "y": 93.46847534179688
+    },
+    {
+      "id": "AI terminology/NLP/intelligent agents.md",
+      "x": 313.49432373046875,
+      "y": -816.9395751953125
+    },
+    {
+      "id": "AI terminology/NLP/intelligent dialogue system.md",
+      "x": 351.1095275878906,
+      "y": -930.7215576171875
+    },
+    {
+      "id": "AI terminology/NLP/intent.md",
+      "x": -352.3577575683594,
+      "y": 1094.78564453125
+    },
+    {
+      "id": "AI terminology/NLP/intents.md",
+      "x": 475.9404602050781,
+      "y": 451.98516845703125
+    },
+    {
+      "id": "AI terminology/NLP/lexicographical similarity.md",
+      "x": 190.920654296875,
+      "y": -2260.530029296875
+    },
+    {
+      "id": "linguistics",
+      "x": 320.6545715332031,
+      "y": -2381.69677734375
+    },
+    {
+      "id": "AI terminology/NLP/modular system.md",
+      "x": 179.6027374267578,
+      "y": -658.4781494140625
+    },
+    {
+      "id": "AI terminology/NLP/multi-layer perceptron (MLP).md",
+      "x": -717.8297119140625,
+      "y": -168.59661865234375
+    },
+    {
+      "id": "AI terminology/NLP/neural methods in NLP tasks.md",
+      "x": -713.1279296875,
+      "y": -48.70527648925781
+    },
+    {
+      "id": "AI terminology/NLP/open-domain dialogue.md",
+      "x": -250.04437255859375,
+      "y": -615.7965087890625
+    },
+    {
+      "id": "AI terminology/NLP/part-of-speech.md",
+      "x": -1632.14599609375,
+      "y": 631.05078125
+    },
+    {
+      "id": "AI terminology/NLP/ranking.md",
+      "x": 292.3586120605469,
+      "y": -698.9862060546875
+    },
+    {
+      "id": "AI terminology/NLP/sentence embedding.md",
+      "x": 361.8260498046875,
+      "y": 248.17274475097656
+    },
+    {
+      "id": "AI terminology/NLP/sentence transformer.md",
+      "x": 2373.146484375,
+      "y": 1016.3468627929688
+    },
+    {
+      "id": "phobert-base",
+      "x": 2246.908447265625,
+      "y": 986.8592529296875
+    },
+    {
+      "id": "AI terminology/NLP/similarity.md",
+      "x": -214.00509643554688,
+      "y": -1712.233154296875
+    },
+    {
+      "id": "AI terminology/NLP/slot filling.md",
+      "x": -605.3238525390625,
+      "y": 1221.38232421875
+    },
+    {
+      "id": "rules base",
+      "x": -654.5751953125,
+      "y": 1479.4339599609375
+    },
+    {
+      "id": "AI terminology/NLP/slots.md",
+      "x": -412.91778564453125,
+      "y": 1218.1341552734375
+    },
+    {
+      "id": "AI terminology/NLP/social chat.md",
+      "x": 227.5652618408203,
+      "y": -345.91253662109375
+    },
+    {
+      "id": "AI terminology/NLP/state tracker.md",
+      "x": 734.5275268554688,
+      "y": 207.99258422851562
+    },
+    {
+      "id": "AI terminology/NLP/stopwords.md",
+      "x": -1738.93408203125,
+      "y": 685.704833984375
+    },
+    {
+      "id": "AI terminology/NLP/supervised document classification problems.md",
+      "x": -1196.6109619140625,
+      "y": 149.9400634765625
+    },
+    {
+      "id": "AI terminology/NLP/task completion.md",
+      "x": 109.96202087402344,
+      "y": -853.9443969726562
+    },
+    {
+      "id": "AI terminology/NLP/task-oriented dialogue agents.md",
+      "x": 495.22686767578125,
+      "y": 112.94405364990234
+    },
+    {
+      "id": "AI terminology/NLP/text classification problem.md",
+      "x": 270.8399658203125,
+      "y": -581.2272338867188
+    },
+    {
+      "id": "AI terminology/NLP/text.md",
+      "x": -1742.0794677734375,
+      "y": 1340.01220703125
+    },
+    {
+      "id": "AI terminology/NLP/tokenization.md",
+      "x": -1460.004150390625,
+      "y": 987.9392700195312
+    },
+    {
+      "id": "AI terminology/NLP/tokens.md",
+      "x": -1322.519287109375,
+      "y": 1105.4320068359375
+    },
+    {
+      "id": "AI terminology/NLP/types.md",
+      "x": -1638.6396484375,
+      "y": 1279.2254638671875
+    },
+    {
+      "id": "AI terminology/NLP/unitary system.md",
+      "x": 70.76986694335938,
+      "y": -194.2366180419922
+    },
+    {
+      "id": "AI terminology/NLP/utterance.md",
+      "x": -140.2091522216797,
+      "y": 1379.7122802734375
+    },
+    {
+      "id": "AI terminology/NLP/vector representation.md",
+      "x": -1170.6168212890625,
+      "y": -453.65155029296875
+    },
+    {
+      "id": "AI terminology/NLP/vocabulary.md",
+      "x": -1485.72998046875,
+      "y": 1331.6080322265625
+    },
+    {
+      "id": "AI terminology/NLP/word embedding model.md",
+      "x": -143.60902404785156,
+      "y": 2561.13037109375
+    },
+    {
+      "id": "AI terminology/NLP/word embedding.md",
+      "x": -861.1614379882812,
+      "y": 1091.7337646484375
+    },
+    {
+      "id": "AI terminology/NLP/word types.md",
+      "x": -1692.94970703125,
+      "y": 1449.468017578125
+    },
+    {
+      "id": "ATIS.md",
+      "x": 148.64662170410156,
+      "y": 626.3707885742188
+    },
+    {
+      "id": "audio recordings",
+      "x": 312.05242919921875,
+      "y": 807.230712890625
+    },
+    {
+      "id": "intent-labeled",
+      "x": 387.0285339355469,
+      "y": 713.5938110351562
+    },
+    {
+      "id": "Audio Processing/ADC.md",
+      "x": 1806.38671875,
+      "y": -492.0399169921875
+    },
+    {
+      "id": "Audio Processing/Amplitude.md",
+      "x": 2293.557373046875,
+      "y": 471.3062438964844
+    },
+    {
+      "id": "Audio Processing/Apriodic wave.md",
+      "x": 2566.411376953125,
+      "y": 5.576573848724365
+    },
+    {
+      "id": "Audio Processing/Audio Processing.md",
+      "x": 1782.071533203125,
+      "y": -283.9669494628906
+    },
+    {
+      "id": "Audio Processing/Audio Signal Processing for Machine Learning.md",
+      "x": 1808.3780517578125,
+      "y": -108.6078872680664
+    },
+    {
+      "id": "Computer Vision",
+      "x": 1858.2210693359375,
+      "y": 36.44270706176758
+    },
+    {
+      "id": "Audio Processing/Audio classification.md",
+      "x": 2089.877685546875,
+      "y": -349.212158203125
+    },
+    {
+      "id": "Audio Processing/Audio denoising.md",
+      "x": 1998.4940185546875,
+      "y": -571.0780639648438
+    },
+    {
+      "id": "Audio Processing/Audio transformations.md",
+      "x": 2239.57568359375,
+      "y": -527.1030883789062
+    },
+    {
+      "id": "Audio Processing/Audio upsampling.md",
+      "x": 1879.5809326171875,
+      "y": -587.0197143554688
+    },
+    {
+      "id": "Audio Processing/Chromograms.md",
+      "x": 2227.4189453125,
+      "y": -706.5401000976562
+    },
+    {
+      "id": "Audio Processing/Constant-Q Transform.md",
+      "x": 2326.7392578125,
+      "y": -444.62603759765625
+    },
+    {
+      "id": "Audio Processing/DAC.md",
+      "x": 1970.97607421875,
+      "y": -365.1865539550781
+    },
+    {
+      "id": "Audio Processing/Fourier Transform.md",
+      "x": 2367.114990234375,
+      "y": -557.5960083007812
+    },
+    {
+      "id": "Audio Processing/Frequency.md",
+      "x": 2176.692138671875,
+      "y": 444.33648681640625
+    },
+    {
+      "id": "Audio Processing/Mechanical wave.md",
+      "x": 2225.5791015625,
+      "y": 111.89312744140625
+    },
+    {
+      "id": "Audio Processing/Mel Spectrograms.md",
+      "x": 2343.188232421875,
+      "y": -675.1510009765625
+    },
+    {
+      "id": "Audio Processing/Mood Classification.md",
+      "x": 2163.188720703125,
+      "y": -808.9004516601562
+    },
+    {
+      "id": "Audio Processing/Music Genre Classification.md",
+      "x": 2048.559814453125,
+      "y": -844.377685546875
+    },
+    {
+      "id": "Audio Processing/Music Instrument Classification.md",
+      "x": 2075.15673828125,
+      "y": -727.3826293945312
+    },
+    {
+      "id": "Audio Processing/Music information Retrieval.md",
+      "x": 1942.2418212890625,
+      "y": -739.2186889648438
+    },
+    {
+      "id": "Audio Processing/Periodic and Aperiodic sound.md",
+      "x": 2414.408203125,
+      "y": -3.931372880935669
+    },
+    {
+      "id": "Audio Processing/Periodic wave.md",
+      "x": 2417.706298828125,
+      "y": 180.3885040283203
+    },
+    {
+      "id": "Audio Processing/Sound waves.md",
+      "x": 1925.310791015625,
+      "y": -476.1603088378906
+    },
+    {
+      "id": "Audio Processing/Sound.md",
+      "x": 2172.9736328125,
+      "y": -102.24769592285156
+    },
+    {
+      "id": "Audio Processing/Speaker verification.md",
+      "x": 1852.16064453125,
+      "y": -381.1966552734375
+    },
+    {
+      "id": "Audio Processing/Speech recognition.md",
+      "x": 2044.1663818359375,
+      "y": -460.1280212402344
+    },
+    {
+      "id": "Audio Processing/Time and Frequency domain audio features.md",
+      "x": 2016.449951171875,
+      "y": -254.3151397705078
+    },
+    {
+      "id": "Audio Processing/waveform.md",
+      "x": 2270.948486328125,
+      "y": 296.86102294921875
+    },
+    {
+      "id": "Intensity",
+      "x": 2134.112548828125,
+      "y": 332.16729736328125
+    },
+    {
+      "id": "Timbre",
+      "x": 2402.10595703125,
+      "y": 420.3043212890625
+    },
+    {
+      "id": "Phase",
+      "x": 2419.080322265625,
+      "y": 301.5425109863281
+    },
+    {
+      "id": "BERT.md",
+      "x": -830.765869140625,
+      "y": -115.5002212524414
+    },
+    {
+      "id": "BiLSTM.md",
+      "x": -528.3563842773438,
+      "y": 529.6497192382812
+    },
+    {
+      "id": "Book/Natural Language Processing With PyTorch..md",
+      "x": -1512.9354248046875,
+      "y": 748.4774780273438
+    },
+    {
+      "id": "Book/Natural Language Processing with Python.md",
+      "x": -1835.0008544921875,
+      "y": 1085.858154296875
+    },
+    {
+      "id": "structured programming",
+      "x": -1974.0640869140625,
+      "y": 1083.5050048828125
+    },
+    {
+      "id": "tagging",
+      "x": -2035.448974609375,
+      "y": 1186.6494140625
+    },
+    {
+      "id": "nformation extraction",
+      "x": -1915.4735107421875,
+      "y": 1188.0755615234375
+    },
+    {
+      "id": "parse sentence",
+      "x": -2093.97119140625,
+      "y": 1081.935546875
+    },
+    {
+      "id": "recognize syntactic structure",
+      "x": -1856.6610107421875,
+      "y": 1292.6319580078125
+    },
+    {
+      "id": "construct representations of meaning",
+      "x": -1976.646484375,
+      "y": 1291.24072265625
+    },
+    {
+      "id": "Book/Neural Approaches to Conversational AI.md",
+      "x": 45.018192291259766,
+      "y": -500.5411376953125
+    },
+    {
+      "id": "research trends",
+      "x": -228.2882080078125,
+      "y": -733.6522216796875
+    },
+    {
+      "id": "phonology",
+      "x": 362.309326171875,
+      "y": -503.53704833984375
+    },
+    {
+      "id": "morphology",
+      "x": 340.5758361816406,
+      "y": -385.65185546875
+    },
+    {
+      "id": "syntax",
+      "x": -271.7994384765625,
+      "y": -498.0809020996094
+    },
+    {
+      "id": "discourse",
+      "x": 293.1712341308594,
+      "y": -246.15081787109375
+    },
+    {
+      "id": "morphological analysis",
+      "x": -42.428890228271484,
+      "y": -232.96018981933594
+    },
+    {
+      "id": "parsing",
+      "x": -180.82205200195312,
+      "y": -420.29345703125
+    },
+    {
+      "id": "natural language ambiguity",
+      "x": -93.60782623291016,
+      "y": -891.1755981445312
+    },
+    {
+      "id": "mapping",
+      "x": 136.3544158935547,
+      "y": -423.17413330078125
+    },
+    {
+      "id": "generating",
+      "x": -89.44190216064453,
+      "y": -342.7593688964844
+    },
+    {
+      "id": "symbolic representations",
+      "x": 88.42759704589844,
+      "y": -735.8745727539062
+    },
+    {
+      "id": "POS",
+      "x": 66.72279357910156,
+      "y": -618.2459716796875
+    },
+    {
+      "id": "underfitting",
+      "x": 201.0886688232422,
+      "y": -776.2094116210938
+    },
+    {
+      "id": "overfitting",
+      "x": 383.6708679199219,
+      "y": -621.4030151367188
+    },
+    {
+      "id": "convolutional layers",
+      "x": 115.00341796875,
+      "y": -305.4041748046875
+    },
+    {
+      "id": "Convolutional-Pooling Layer",
+      "x": 249.41781616210938,
+      "y": -463.3680419921875
+    },
+    {
+      "id": "query-document ranking",
+      "x": -2.6714065074920654,
+      "y": -813.4359130859375
+    },
+    {
+      "id": "answer selection",
+      "x": -67.70217895507812,
+      "y": -460.5131530761719
+    },
+    {
+      "id": "dialogue response selection",
+      "x": -137.05982971191406,
+      "y": -655.828369140625
+    },
+    {
+      "id": "CRF.md",
+      "x": -434.36602783203125,
+      "y": 603.7612915039062
+    },
+    {
+      "id": "CS224U/Lecure 1 - Course Overview.md",
+      "x": -23.45634651184082,
+      "y": 71.7432861328125
+    },
+    {
+      "id": "F-Tech/COMET Stress test report.md",
+      "x": 1450.2615966796875,
+      "y": -1310.6761474609375
+    },
+    {
+      "id": "F-Tech/COMET.md",
+      "x": 1552.99365234375,
+      "y": -1376.9366455078125
+    },
+    {
+      "id": "F-Tech/Exploration.md",
+      "x": 1724.4439697265625,
+      "y": 1187.14208984375
+    },
+    {
+      "id": "data",
+      "x": 1901.98974609375,
+      "y": 1274.7049560546875
+    },
+    {
+      "id": "F-Tech/F-School.md",
+      "x": 1255.778564453125,
+      "y": -982.5411376953125
+    },
+    {
+      "id": "F-Tech/F-Work.md",
+      "x": 1552.0457763671875,
+      "y": -1531.66845703125
+    },
+    {
+      "id": "F-Tech/Inspection.md",
+      "x": 921.5018310546875,
+      "y": 2371.335205078125
+    },
+    {
+      "id": "chi tiết",
+      "x": 823.5827026367188,
+      "y": 2456.7099609375
+    },
+    {
+      "id": "F-Tech/Meeting.md",
+      "x": 2267.178466796875,
+      "y": 1300.693603515625
+    },
+    {
+      "id": "OOS",
+      "x": 2218.234619140625,
+      "y": 1422.2825927734375
+    },
+    {
+      "id": "F-Tech/Neo4j AuraDB.md",
+      "x": 1317.689208984375,
+      "y": 1728.697998046875
+    },
+    {
+      "id": "F-Tech/Neo4j Bloom.md",
+      "x": 1488.0797119140625,
+      "y": 1638.5352783203125
+    },
+    {
+      "id": "tương tác",
+      "x": 1505.7615966796875,
+      "y": 1483.9990234375
+    },
+    {
+      "id": "dữ liệu",
+      "x": 1623.1138916015625,
+      "y": 1652.522216796875
+    },
+    {
+      "id": "Graph",
+      "x": 1736.7747802734375,
+      "y": 1582.74755859375
+    },
+    {
+      "id": "Neo4j database",
+      "x": 1542.887451171875,
+      "y": 1804.3238525390625
+    },
+    {
+      "id": "GUI",
+      "x": 1657.0035400390625,
+      "y": 1767.53759765625
+    },
+    {
+      "id": "node",
+      "x": 1615.2784423828125,
+      "y": 1532.8616943359375
+    },
+    {
+      "id": "câu lệnh",
+      "x": 1389.17138671875,
+      "y": 1512.0018310546875
+    },
+    {
+      "id": "Scene",
+      "x": 1318.3702392578125,
+      "y": 1608.8101806640625
+    },
+    {
+      "id": "Overlays",
+      "x": 1425.109375,
+      "y": 1781.906494140625
+    },
+    {
+      "id": "F-Tech/Perspective.md",
+      "x": 1910.110107421875,
+      "y": 1458.4368896484375
+    },
+    {
+      "id": "F-Tech/Report on COMET stress test.md",
+      "x": 1658.2073974609375,
+      "y": -1642.507080078125
+    },
+    {
+      "id": "DDOS",
+      "x": 1738.40771484375,
+      "y": -1768.2177734375
+    },
+    {
+      "id": "CPU",
+      "x": 1803.13232421875,
+      "y": -1644.5062255859375
+    },
+    {
+      "id": "Ram",
+      "x": 1610.2591552734375,
+      "y": -1787.8369140625
+    },
+    {
+      "id": "F-Tech/Sidebar.md",
+      "x": 1350.86572265625,
+      "y": 1936.6290283203125
+    },
+    {
+      "id": "Perspective drawer",
+      "x": 1284.8726806640625,
+      "y": 2082.89453125
+    },
+    {
+      "id": "Help & Learn drawer",
+      "x": 1202.5921630859375,
+      "y": 1995.54833984375
+    },
+    {
+      "id": "Settings drawer",
+      "x": 1405.8404541015625,
+      "y": 2080.719970703125
+    },
+    {
+      "id": "F-Tech/Visualization.md",
+      "x": 500.6831970214844,
+      "y": 2342.222412109375
+    },
+    {
+      "id": "GPU",
+      "x": 480.9012451171875,
+      "y": 2472.1318359375
+    },
+    {
+      "id": "Render",
+      "x": 610.1141967773438,
+      "y": 2267.935546875
+    },
+    {
+      "id": "F-Tech/Webinar.md",
+      "x": 1225.91845703125,
+      "y": 407.8785095214844
+    },
+    {
+      "id": "structured data",
+      "x": 1347.5078125,
+      "y": 302.46722412109375
+    },
+    {
+      "id": "RDF",
+      "x": 1347.1212158203125,
+      "y": 564.2222900390625
+    },
+    {
+      "id": "F-Tech/complex.md",
+      "x": 1491.1910400390625,
+      "y": 796.86669921875
+    },
+    {
+      "id": "relatiènonship",
+      "x": 1638.388427734375,
+      "y": 869.4779663085938
+    },
+    {
+      "id": "F-Tech/lớp khái niệm.md",
+      "x": 1227.404296875,
+      "y": 571.9944458007812
+    },
+    {
+      "id": "F-Tech/negative.md",
+      "x": -1961.0355224609375,
+      "y": -781.4561157226562
+    },
+    {
+      "id": "F-Tech/postivite.md",
+      "x": -1830.5888671875,
+      "y": -795.028564453125
+    },
+    {
+      "id": "F-Tech/query.md",
+      "x": -1921.0418701171875,
+      "y": -894.5864868164062
+    },
+    {
+      "id": "F-Tech/relationship.md",
+      "x": 1509.39013671875,
+      "y": 1158.8729248046875
+    },
+    {
+      "id": "F-Tech/simple.md",
+      "x": 1371.2628173828125,
+      "y": 800.8026733398438
+    },
+    {
+      "id": "F-Tech/venus.md",
+      "x": -1519.022705078125,
+      "y": -1138.415283203125
+    },
+    {
+      "id": "FAQ",
+      "x": -1642.5213623046875,
+      "y": -1299.0367431640625
+    },
+    {
+      "id": "Hidden Markov model.md",
+      "x": -93.17333221435547,
+      "y": 279.939697265625
+    },
+    {
+      "id": "Images/Table 1.1.md",
+      "x": 430.99652099609375,
+      "y": -840.4484252929688
+    },
+    {
+      "id": "K-nearest neighbours.md",
+      "x": -518.9171752929688,
+      "y": 1037.7222900390625
+    },
+    {
+      "id": "MEM.md",
+      "x": -716.4383544921875,
+      "y": 558.2474365234375
+    },
+    {
+      "id": "Markov Model.md",
+      "x": 600.994873046875,
+      "y": -478.7565002441406
+    },
+    {
+      "id": "Math/mathematical.md",
+      "x": 158.06959533691406,
+      "y": -540.8856811523438
+    },
+    {
+      "id": "Paper/A survey of joint intent detection and slot-filling models in naturallanguage understanding.md",
+      "x": -611.7571411132812,
+      "y": 615.190185546875
+    },
+    {
+      "id": "slot labelling",
+      "x": -647.25244140625,
+      "y": 985.2684326171875
+    },
+    {
+      "id": "slot tagging",
+      "x": -403.15509033203125,
+      "y": 719.4025268554688
+    },
+    {
+      "id": "sentiment analysis",
+      "x": -645.7197265625,
+      "y": 729.9053344726562
+    },
+    {
+      "id": "scientific citation",
+      "x": -676.0776977539062,
+      "y": 445.6105651855469
+    },
+    {
+      "id": "Attention",
+      "x": -755.4442138671875,
+      "y": 925.7734985351562
+    },
+    {
+      "id": "out-of-vocabulary",
+      "x": -832.82080078125,
+      "y": 585.4183349609375
+    },
+    {
+      "id": "convolutional",
+      "x": -652.3786010742188,
+      "y": 865.589599609375
+    },
+    {
+      "id": "Viterbi decoded Markov layer",
+      "x": -560.3610229492188,
+      "y": 414.204345703125
+    },
+    {
+      "id": "Bidirectional RNN",
+      "x": -750.8090209960938,
+      "y": 672.9498901367188
+    },
+    {
+      "id": "Bi-RNN",
+      "x": -350.0762023925781,
+      "y": 518.6783447265625
+    },
+    {
+      "id": "intent2slot",
+      "x": -747.4285888671875,
+      "y": 792.8380126953125
+    },
+    {
+      "id": "multi-head self-attention",
+      "x": -796.81640625,
+      "y": 469.72576904296875
+    },
+    {
+      "id": "GloVe",
+      "x": -551.1925048828125,
+      "y": 802.1763916015625
+    },
+    {
+      "id": "max pooled",
+      "x": -850.8505859375,
+      "y": 853.1447143554688
+    },
+    {
+      "id": "convolutional character embeddings",
+      "x": -854.189697265625,
+      "y": 733.401611328125
+    },
+    {
+      "id": "Graph networks",
+      "x": -444.2607421875,
+      "y": 444.39404296875
+    },
+    {
+      "id": "Paper/CONTINUAL BACKPROP - STOCHASTIC GRADIENT DECESCENT WITH PERSISTENT RANDOMNESS.md",
+      "x": -288.7411193847656,
+      "y": -1157.1749267578125
+    },
+    {
+      "id": "RecNN.md",
+      "x": -865.9541015625,
+      "y": 971.9904174804688
+    },
+    {
+      "id": "SVM.md",
+      "x": -436.2643737792969,
+      "y": 834.3363037109375
+    },
+    {
+      "id": "Transformer.md",
+      "x": -318.4394836425781,
+      "y": 634.6373901367188
+    },
+    {
+      "id": "deep belief networks.md",
+      "x": -545.9764404296875,
+      "y": 921.4806518554688
+    },
+    {
+      "id": "dependency parsing.md",
+      "x": -430.5751953125,
+      "y": 954.0538940429688
+    },
+    {
+      "id": "dialogue systems.md",
+      "x": -140.294677734375,
+      "y": 969.7267456054688
+    },
+    {
+      "id": "joint model.md",
+      "x": -353.037109375,
+      "y": 1453.598388671875
+    },
+    {
+      "id": "slot labels",
+      "x": -368.9102478027344,
+      "y": 1711.8848876953125
+    },
+    {
+      "id": "pipeline models",
+      "x": -251.69351196289062,
+      "y": 1686.278564453125
+    },
+    {
+      "id": "meeting summarization.md",
+      "x": 351.25982666015625,
+      "y": 500.8206787109375
+    },
+    {
+      "id": "neural networks.md",
+      "x": 1304.6793212890625,
+      "y": -2211.210205078125
+    },
+    {
+      "id": "question answering systems.md",
+      "x": -68.30506134033203,
+      "y": 661.8484497070312
+    },
+    {
+      "id": "random forest.md",
+      "x": -320.8130798339844,
+      "y": 865.9567260742188
+    },
+    {
+      "id": "search engines.md",
+      "x": -326.0179443359375,
+      "y": 1332.1038818359375
+    },
+    {
+      "id": "speech utterances.md",
+      "x": 306.46746826171875,
+      "y": 389.53082275390625
+    },
+    {
+      "id": "text categorisation.md",
+      "x": -287.59539794921875,
+      "y": 750.7206420898438
+    },
+    {
+      "id": "text classification.md",
+      "x": -232.38938903808594,
+      "y": 1097.0401611328125
+    },
+    {
+      "id": "text similarity.md",
+      "x": -348.5849609375,
+      "y": 1586.5247802734375
+    },
+    {
+      "id": "voice search.md",
+      "x": 231.50357055664062,
+      "y": 493.76104736328125
+    },
+    {
+      "id": "independent models.md",
+      "x": -2031.3280029296875,
+      "y": -1756.398681640625
+    },
+    {
+      "id": "joint models.md",
+      "x": 402.9792175292969,
+      "y": 919.0433349609375
+    },
+    {
+      "id": "transfer learning.md",
+      "x": 279.2307434082031,
+      "y": 1017.2787475585938
+    },
+    {
+      "id": "Paper/Recent Neural Methods on Slot Filling and Intent Classificationfor Task-Oriented Dialogue Systems - A Survey.md",
+      "x": 192.2372283935547,
+      "y": 813.5073852539062
+    },
+    {
+      "id": "dialogue system",
+      "x": 397.2152099609375,
+      "y": 1038.85595703125
+    },
+    {
+      "id": "#NLP",
+      "x": -651.5184936523438,
+      "y": 1105.0546875
+    },
+    {
+      "id": "#AI",
+      "x": -760.0231323242188,
+      "y": 1156.1807861328125
+    },
+    {
+      "id": "#Sound",
+      "x": 2123.517333984375,
+      "y": -559.5310668945312
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}

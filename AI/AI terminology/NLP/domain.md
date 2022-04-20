@@ -1,0 +1,1 @@
+The domain is the area of information the [[utterance]] is concerned with the [[intent]]

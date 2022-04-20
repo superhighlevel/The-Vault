@@ -1,0 +1,1 @@
+Câu không liên quan hay sai so với [[query]]. a negative sample from a different class

@@ -1,0 +1,2 @@
+Early search engines applied [[text similarity]] to select results for users. More recently, [[intent classification]] has been applied to understand the searcher’s [[intent]] further and  
+this approach has been proven to give better search results

@@ -1,0 +1,3 @@
+#### Softmax
+Like the [[Sigmoid]] function, the softmax function squashes the output of each unit to be between$[0, 1]$. However, the softmax operation also divides each output by the sum of all the outputs, which gives us a discrete probability distribution over k possible classes:$$Softmax(x) = f(x) = \dfrac{e^{x_i}}{\sum_{j=1}^{k}e^{x_i}}$$
+The probabilities in the resulting distribution all sum up to one. This is very useful for interpreting outputs for [[classification]] tasks, and so this transformation is usually paired with a probabilistic training objective, such as [[categorical cross entropy]]

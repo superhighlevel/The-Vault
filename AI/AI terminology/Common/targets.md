@@ -1,0 +1,2 @@
+   ##### Targets
+   Targets are labels corresponding to an observation. These are usually the things being predicted.  Following standard notations in machine learning/deep learning, we use y to refer to these. Sometimes, these labels known as the ground truth.

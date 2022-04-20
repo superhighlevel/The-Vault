@@ -1,6 +1,6 @@
 {
-  "baseFontSize": 20,
-  "theme": "moonstone",
+  "baseFontSize": 19,
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "big-math",
     "clean_embeds",

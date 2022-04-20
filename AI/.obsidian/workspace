@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ed5b39ba834b48dd",
+        "id": "245b00faf70cf11c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Q-Learning.md",
+            "file": "Paper/Joint Multiple Intent Detection and Slot Labeling forGoal-Oriented Dialog.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Seq2",
+                "query": "file: senmatic",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "074611f5e996a46c",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Q-Learning.md",
+                "file": "Paper/Joint Multiple Intent Detection and Slot Labeling forGoal-Oriented Dialog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,25 +80,34 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "42031d0de60e03bd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 295,
     "collapsed": true
   },
-  "active": "ed5b39ba834b48dd",
+  "active": "245b00faf70cf11c",
   "lastOpenFiles": [
-    "Q-Learning.md",
-    "AI terminology/ML-DL-RL/RL.md",
-    "AI terminology/ML-DL-RL/ML Agents using supervised learning.md",
-    "AI terminology/NLP/neural methods in NLP tasks.md",
-    "Book/Neural Approaches to Conversational AI.md",
-    "Markov decision process.md",
-    "Q-function.md",
-    "Interaction between an RL agent and the external environment.png",
-    "Seq2Seq.md",
-    "Recurrent Neural Network.md"
+    "Paper/Joint Multiple Intent Detection and Slot Labeling forGoal-Oriented Dialog.md",
+    "multi-label classification.md",
+    "sequential labeling problem.md",
+    "semantic frame.md",
+    "AI terminology/NLP/NLG.md",
+    "sentence classification.md",
+    "AI terminology/NLP/intent.md",
+    "AI terminology/NLP/slots.md",
+    "slot-labels.md",
+    "AI terminology/NLP/intents.md"
   ]
 }

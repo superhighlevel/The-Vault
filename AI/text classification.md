@@ -1,0 +1,1 @@
+Text classification is a feature or features are constructed from the sentence and these are passed through a classification algorithm to predict a class for the sentence from a predefined set of classes. As a classification problem the techniques applied look to discover a well defined decision boundary between the features.

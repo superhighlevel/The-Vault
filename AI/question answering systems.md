@@ -1,0 +1,1 @@
+answering questions from users also benefits from understanding the [[intents]] of questions to generate better quality responses.

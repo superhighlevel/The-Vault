@@ -7,5 +7,19 @@
     "en-US",
     "vi"
   ],
-  "showFrontmatter": false
+  "showFrontmatter": false,
+  "spellcheckDictionary": [
+    "GetWeatherInfo",
+    "BookCab",
+    "BookCab",
+    "BookHotel",
+    "BookHotel",
+    "CheckinDate",
+    "BookHotel",
+    "Loc",
+    "BookCab",
+    "i.e., i",
+    "ther wh",
+    "ared to “"
+  ]
 }

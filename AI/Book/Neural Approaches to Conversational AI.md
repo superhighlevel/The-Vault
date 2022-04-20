@@ -1,11 +1,11 @@
 # Neural Approaches to Conversational AI
-[[QA]], [[Task-Oriented Dialog]] and [[Social Chatbots]]
+[[QA]], [[Task-oriented dialogue]] and [[Social Chatbots]]
 
 ### Chapter 1. Introduction
 [[Conversational AI]] is fundamental to natural user interfaces. Attracting [[NLP]], [[IR]]
 and [[ML]] communities. [[SIGIR 2018]] has created a new track of [[AI]], [[Semantics]], and [[intelligent dialogue system]] to bridge research in [[AI]] and [[IR]], especially targeting [[QA]], deep semantics and dialogue with [[intelligent agents]].
 - Overral survey of neural approaches to [[Conversational AI]], targeting [[NLP]] and [[IR]] audiences, not including [[SLU]]:
-	- We provide a comprehensive survey of the neural approaches to [[Conversational AI]] that have been developed in the last few years, covering [[QA]], [[Task-Oriented Dialog]] and [[Social Chatbots]] with a unified view of optimal decision making.
+	- We provide a comprehensive survey of the neural approaches to [[Conversational AI]] that have been developed in the last few years, covering [[QA]], [[Task-oriented dialogue]] and [[Social Chatbots]] with a unified view of optimal decision making.
 	- We draw ==connections== between ==modern neural approaches== and ==traditional approaches==, allowing us to better understand why and how the research has evolved and to shed light on how we can move forward.
 	- We present [[state-of-the-art]] approaches to training dialogue agents using both [[Supervised Learning]] and [[RL]].
 	- We sketch out the landscape of [[conversational systems]] developed in the research community and released in industry, demonstrating via case studies the progress that has been made and the challenges that we are still facing.
@@ -27,7 +27,7 @@ The [[IR]] and [[NLP]] communities as the primary target audience.
 	• [[social chat]]: The [[Agents]] needs to converse seamlessly and appropriately with users — like a human as in the Turing test — and provide useful recommendations. 
 
 A typical [[task-oriented dialogue agents]] is composed of four modules...
-Most [[Task-Oriented Dialog]] are implemented using a [[modular system]], where the bot often has access to an external database on which to inquire about information to accomplish the task. 
+Most [[Task-oriented dialogue]] are implemented using a [[modular system]], where the bot often has access to an external database on which to inquire about information to accomplish the task. 
 [[Social Chatbots]], on the other hand, are often implemented using a [[unitary system]].  
 #### 1.3 A Unified View: Dialogue as Optimal Decision Making.
 [[Decision making process]] ... Basically, it divides tasks into hierarchies and solves it from low to high.  

@@ -1,65 +1,79 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
-  "collapse-color-groups": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Book",
+      "query": "path:\"AI terminology/Common\"",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 6724095
       }
     },
     {
       "query": "path:\"AI terminology/NLP\"",
       "color": {
         "a": 1,
-        "rgb": 2654192
-      }
-    },
-    {
-      "query": "path:\"AI terminology/Common\"",
-      "color": {
-        "a": 1,
-        "rgb": 5294335
+        "rgb": 12609258
       }
     },
     {
       "query": "path:\"AI terminology/ML-DL-RL\"",
       "color": {
         "a": 1,
-        "rgb": 6287
+        "rgb": 6315512
       }
     },
     {
-      "query": "path:Images",
+      "query": "path:Book",
       "color": {
         "a": 1,
-        "rgb": 16702408
+        "rgb": 15676549
       }
     },
     {
-      "query": "path:Math",
+      "query": "path:\"Audio Processing\"",
       "color": {
         "a": 1,
-        "rgb": 9895751
+        "rgb": 7858765
+      }
+    },
+    {
+      "query": "path:F-Tech",
+      "color": {
+        "a": 1,
+        "rgb": 15839527
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:Paper",
+      "color": {
+        "a": 1,
+        "rgb": 13109596
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -1.4,
-  "nodeSizeMultiplier": 2.31666666666667,
-  "lineSizeMultiplier": 1.9375,
-  "collapse-forces": true,
-  "centerStrength": 0.553571428571429,
-  "repelStrength": 16.6666666666667,
-  "linkStrength": 0.720238095238095,
-  "linkDistance": 310,
-  "scale": 0.6063952615478845,
+  "showArrow": false,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.447743467933492,
+  "repelStrength": 11.2351543942993,
+  "linkStrength": 1,
+  "linkDistance": 115,
+  "scale": 1.4769860980686538,
   "close": true
 }

@@ -1,7 +1,7 @@
-[[Task-Oriented Dialog]] [[Agents]]
+[[Task-oriented dialogue]] [[Agents]]
 ![[Pasted image 20220329163108.png]]
 &nbsp;&nbsp;&nbsp;&nbsp;A typical [[task-oriented dialogue agents]] is composed of four modules:
-1. [[NLU]] module for identifying user [[intents]] and extracting associated information.
+1. [[Natural Language Understanding]] module for identifying user [[intents]] and extracting associated information.
 2. A [[state tracker]] for tracking the dialogue state that captures all essential  
 information in the conversation so far.
 3. A [[dialogue policy]] that selects the next action based on the current state.

@@ -1,1 +1,4 @@
-**A**rtificial **I**ntelligence
+---
+aliases: AI, artificial intelligence, 
+---
+# Artificial Intelligence
