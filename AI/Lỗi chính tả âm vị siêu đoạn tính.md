@@ -1,0 +1,1 @@
+Là loại âm vị không được định vị trên tuyến thời gian khi phát âm, mà được thể hiện lồng vào các âm vị đoạn tính.

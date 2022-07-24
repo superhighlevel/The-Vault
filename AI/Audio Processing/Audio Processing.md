@@ -1,9 +1,18 @@
 #Sound 
 ## Audio Processing
-### Content
+### 
 #### Sound and Waveforms
 ![[Sound#Sound]]
 [[Sound waves]] 
+#### Hearing Range
+![[Hearing Range]]
+
+#### Pitch 
+![[Pitch]]
+
+#### Cents
+![[Cents]]
+
 #### DAC/ADC
 [[DAC]] 
 [[ADC]]
@@ -16,4 +25,5 @@
 - [[Speech recognition]], [[Speaker verification]]
 - [[Audio denoising]], [[Audio upsampling]]
 - [[Music information Retrieval]]
+
 

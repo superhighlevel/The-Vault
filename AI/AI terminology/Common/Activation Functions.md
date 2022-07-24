@@ -3,4 +3,5 @@ Activation functions are nonlinearities introduced in a [[NN|Neural Network]] to
 ![[Sigmoid]]
 ![[Tanh]]
 ![[ReLU]]
+![[LeakyReLU]]
 ![[Softmax]]

@@ -3,8 +3,8 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -50,13 +50,6 @@
       }
     },
     {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
       "query": "path:Paper",
       "color": {
         "a": 1,
@@ -74,6 +67,6 @@
   "repelStrength": 11.2351543942993,
   "linkStrength": 1,
   "linkDistance": 115,
-  "scale": 1.4769860980686538,
+  "scale": 0.2726859917360136,
   "close": true
 }

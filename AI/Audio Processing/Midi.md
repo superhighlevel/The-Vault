@@ -1,0 +1,3 @@
+#Sound 
+*Musical Instrument Digital Interface* -  is a [technical standard](https://en.wikipedia.org/wiki/Technical_standard "Technical standard") that describes a [communications protocol](https://en.wikipedia.org/wiki/Communications_protocol "Communications protocol"), [digital interface](https://en.wikipedia.org/wiki/Digital_electronics "Digital electronics"), and [electrical connectors](https://en.wikipedia.org/wiki/Electrical_connector "Electrical connector") that connect a wide variety of [electronic musical instruments](https://en.wikipedia.org/wiki/Electronic_musical_instrument "Electronic musical instrument"), [computers](https://en.wikipedia.org/wiki/Computer "Computer"), and related audio devices for playing, editing, and recording music.
+

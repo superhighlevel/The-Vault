@@ -1,3 +1,4 @@
+#Sound 
 #### Mechanical wave
 - Mechanical wave is wave that obcillation that travels through space
 - The energy travels from one point to another, and make the medium(air) deformed.

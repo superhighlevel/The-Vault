@@ -1,0 +1,1 @@
+Hiện tượng ghi sai phụ âm đầu trong bài viết của học sinh thường thể hiện ở sự lẫn lộn các chữ cái hay các tổ hợp chữ cái ghi phụ âm đầu.

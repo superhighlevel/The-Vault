@@ -1,3 +1,4 @@
+#Sound 
 ### Waveform
 #### Mechanical wave
 ![[Mechanical wave]]
@@ -6,7 +7,6 @@
 ![[Pasted image 20220414154610.png]]
 Basiclly, a waveform is a pressure plot, plotting deviation of air molecules.
 - The waveform carries multifactorial information:
-	- 
 	- [[Frequency]]
 	- [[Intensity]]
 	- [[Timbre]]
