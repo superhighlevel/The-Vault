@@ -1,4 +1,9 @@
-
+---
+aliases:
+tag: AI, NLP
+date: 24-07-2022
+---
+### dispersion plot
 ![[Pasted image 20220330143448.png]]
 ```python
 text4.dispersion_plot(["citizens", "democracy", "freedom", "duties", "America"])

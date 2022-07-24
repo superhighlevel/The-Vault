@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d851671932fa84d0",
+        "id": "03ea3bf6c974cbe9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Money management.md",
+            "file": "Audio Processing/Music information Retrieval.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Money management.md",
+                "file": "Audio Processing/Music information Retrieval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,20 +93,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295,
-    "collapsed": true
+    "width": 161.5
   },
-  "active": "d851671932fa84d0",
+  "active": "03ea3bf6c974cbe9",
   "lastOpenFiles": [
-    "Money management.md",
-    "loại lỗi chính tả.md",
-    "Ghi sai phụ âm cuối /bán nguyên âm cuối.md",
-    "Ghi sai âm chính.md",
-    "Ghi sai âm đệm.md",
-    "Ghi sai phụ âm đầu.md",
-    "Lỗi chính tả âm vị đoạn tính.md",
-    "Lỗi chính tả âm vị siêu đoạn tính.md",
-    "Lỗi chính tả âm vị.md",
-    "Lỗi chính tả.md"
+    "Audio Processing/Music information Retrieval.md",
+    "AI terminology/NLP/NLP.md",
+    "AI terminology/NLP/IR.md",
+    "AI terminology/NLP/Encoding (NLP).md",
+    "AI terminology/NLP/Cosine Distance.md",
+    "AI terminology/NLP/Decoding (NLP).md",
+    "AI terminology/NLP/Cos similarity.md",
+    "AI terminology/NLP/Conversational AI.md",
+    "AI terminology/NLP/Bag-Of-Words.md",
+    "AI terminology/NLP/fully datadriven systems.md"
   ]
 }

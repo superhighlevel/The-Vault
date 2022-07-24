@@ -1,1 +1,0 @@
-Chuẩn [[Chính âm|chính âm]] là chuẩn phát âm

@@ -1,6 +1,6 @@
 ---
 aliases: intensity
-tag: Sound, d
+tag: Sound,
 date: 09-05-2022
 ---
 ### Intensity
